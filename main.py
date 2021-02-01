@@ -85,5 +85,5 @@ def MySensorFunc(func):
 #print(str(Options.PASTPACKETSLENGTH))
 #print(str(Options.RADIOBUFFERLENGTH))
 #print(str(Options.REGISTEREDSENSORSLENGTH))
-print(str(MySensorFunc(MySensor.TEMPER)))
+print(str(MySensorFunc(MySensor.PITCH)))
 

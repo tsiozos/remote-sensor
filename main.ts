@@ -116,4 +116,4 @@ function MySensorFunc(func: number): number {
 // print(str(Options.PASTPACKETSLENGTH))
 // print(str(Options.RADIOBUFFERLENGTH))
 // print(str(Options.REGISTEREDSENSORSLENGTH))
-console.log("" + MySensorFunc(MySensor.TEMPER))
+console.log("" + MySensorFunc(MySensor.PITCH))
