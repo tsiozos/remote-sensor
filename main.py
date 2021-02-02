@@ -1,3 +1,5 @@
+import numconv.toBin
+from numconv import *
 
 class Options:
     PASTPACKETSLENGTH = 100
