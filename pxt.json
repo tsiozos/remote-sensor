@@ -10,8 +10,8 @@
         "main.ts",
         "README.md",
         "main.py",
-        "numconv.py",
-        "numconv.ts"
+        "numconv.ts",
+        "mysensors.ts"
     ],
     "testFiles": [
         "test.ts"
